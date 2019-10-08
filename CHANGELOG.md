@@ -1,3 +1,3 @@
 # CHANGELOG.md
 
-This file documents changes made to the repository
+This file documents any changes made to the repository.
